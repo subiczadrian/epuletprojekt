@@ -1,0 +1,7 @@
+1. Vezessen projektet a szükséges szigetelőanyag mennyiség meghatározására négyzetméterben. Az épület méretei: a = 21m, b = 47m, c = 73m. 
+2. Határozza meg a projekt részvevőinek a feladatát és annak határidejét. 
+3. Az egyik résztvevő készítsen tervet ( folyamatábra ) a számoló program algoritmusára. 4. A másik résztvevő készítse el a számoló programot. 
+5. Ön mint projektmenedzser nem írhat bele egyetlen állományba sem, sem a tervbe sem a  programkódba. 
+6. A programot a terv alapján kell elkészíteni, egyeznie kell a folyamatábrával. Ha nem működik,  vagy nem a kívánt eredményt adja, a hiba forrását tekintve vissza kell adni a megfelelő  résztvevőnek ( tervező, kódoló ) javításra. 
+7. A projekt menedzselésére használják a github verziókövető rendszert. 
+Az elkészült projektet töltse fel a tanteremben.
